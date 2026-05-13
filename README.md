@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/Kortungas" width="120" alt="Foto de perfil de Kurt" />
+
 # Kurt Cobain Vázquez Sánchez
 
 ### Software Student · Digital Solutions Developer · University Tech Builder
