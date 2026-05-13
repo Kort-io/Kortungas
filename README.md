@@ -2,9 +2,11 @@
 
 # Kurt Cobain Vázquez Sánchez
 
-### Software Student · Digital Solutions Developer · Builder of Real-Use Projects
+### Software Student · Digital Solutions Developer · University Tech Builder
 
-Transformo ideas en sistemas funcionales, combinando lógica, diseño, experiencia de usuario y tecnología aplicada.
+Soy estudiante de Software, tengo 21 años y actualmente trabajo para mi universidad mientras sigo desarrollando proyectos académicos, personales e institucionales.
+
+Construyo soluciones digitales combinando lógica, diseño, automatización, experiencia de usuario y tecnología aplicada.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cobeinkort@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kortungas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kortungas)
@@ -17,22 +19,40 @@ Transformo ideas en sistemas funcionales, combinando lógica, diseño, experienc
 
 ## Sobre mí
 
-Soy estudiante de Software en la Universidad Tecnológica de San Juan del Río. Me enfoco en crear soluciones digitales con utilidad real, especialmente proyectos que conectan desarrollo, diseño, automatización, experiencia de usuario y necesidades del entorno académico.
+Soy Kurt, estudiante de Software en la Universidad Tecnológica de San Juan del Río. Me apasiona la tecnología, el desarrollo de soluciones digitales y la creación de proyectos que tengan utilidad real dentro y fuera del entorno académico.
 
-No me interesa solo aprender tecnologías por separado. Me gusta entender cómo se conectan entre sí para construir productos completos: interfaces limpias, lógica funcional, bases de datos, apps móviles, herramientas internas, sitios web, automatizaciones y sistemas que puedan crecer con el tiempo.
+Actualmente trabajo para mi universidad, lo que me ha permitido acercarme más a problemas reales, necesidades institucionales, procesos internos y oportunidades donde el software puede hacer una diferencia práctica.
 
-Actualmente desarrollo proyectos personales, académicos e institucionales donde experimento con arquitectura, rendimiento, diseño visual, experiencia de usuario y soluciones aplicadas al mundo real.
+Me gusta transformar ideas en sistemas funcionales. No solo me enfoco en que algo “funcione”, también me importa que sea claro, usable, escalable y que tenga una buena experiencia para el usuario.
 
 ---
 
-## En qué estoy enfocado
+## Lo que hago
 
-- Desarrollo de aplicaciones móviles con Flutter, Dart y bases locales.
-- Sistemas web con HTML, CSS, JavaScript, PHP, Node.js y bases de datos.
-- Automatización de tareas, scripts y flujos de trabajo en Windows.
-- Diseño de interfaces, prototipos y recursos visuales con Figma y Photoshop.
-- Integración de APIs, almacenamiento local, lógica offline y estructuras escalables.
-- Proyectos académicos con enfoque práctico, no solo entregables de clase.
+- Desarrollo aplicaciones móviles, principalmente con Flutter, Dart y lógica offline.
+- Construyo interfaces web con HTML, CSS, JavaScript y tecnologías relacionadas.
+- Trabajo con bases de datos como MySQL, MariaDB y SQLite.
+- Desarrollo herramientas, scripts y automatizaciones para reducir procesos repetitivos.
+- Diseño interfaces, prototipos y recursos visuales con Figma y Photoshop.
+- Integro APIs, estructuras de datos y flujos de información.
+- Desarrollo proyectos académicos e institucionales con enfoque práctico.
+
+---
+
+## Enfoque actual
+
+<div align="center">
+
+| Área | Enfoque |
+|---|---|
+| Mobile | Apps con Flutter, Dart, almacenamiento local e interfaces funcionales |
+| Web | Sitios, portafolios, sistemas académicos y laboratorios visuales |
+| Backend | APIs, PHP, Node.js, MySQL, MariaDB y estructuras de datos |
+| Automatización | Scripts, comandos, flujos guiados y herramientas internas |
+| Diseño | UI, prototipos, recursos visuales y experiencias limpias |
+| Universidad | Soluciones digitales aplicadas a necesidades académicas e institucionales |
+
+</div>
 
 ---
 
@@ -40,19 +60,19 @@ Actualmente desarrollo proyectos personales, académicos e institucionales donde
 
 ### App institucional universitaria
 
-Proyecto móvil orientado a centralizar funciones útiles para estudiantes dentro del entorno universitario. Incluye trabajo con interfaces, datos académicos, autenticación, almacenamiento local, compatibilidad móvil y una estructura pensada para escalar.
+Proyecto móvil orientado a centralizar funciones útiles para estudiantes dentro del entorno universitario. Incluye trabajo con interfaces móviles, datos académicos, autenticación, almacenamiento local, compatibilidad multiplataforma y una estructura pensada para escalar.
 
 ### Proyecto Nexus
 
-Laboratorio personal web donde concentro portafolio, experimentos, certificaciones, proyectos, mini páginas y pruebas visuales. Es un ecosistema pensado para crecer junto con mi carrera y funcionar como espacio de desarrollo, presentación y experimentación.
+Laboratorio personal web donde concentro portafolio, experimentos, certificaciones, proyectos, mini páginas y pruebas visuales. Es un ecosistema pensado para crecer junto con mi formación y funcionar como espacio de desarrollo, presentación y experimentación.
 
 ### Automatización y herramientas internas
 
-Exploro sistemas que permitan ejecutar tareas repetitivas mediante scripts, comandos, flujos guiados y generación de reportes técnicos. La idea es reducir fricción para usuarios y convertir procesos manuales en acciones más claras, rápidas y controladas.
+Exploro sistemas que permitan ejecutar tareas repetitivas mediante scripts, comandos, flujos guiados y generación de reportes técnicos. Mi objetivo es convertir procesos manuales en acciones más claras, rápidas y controladas.
 
 ### Desarrollo académico aplicado
 
-Trabajo constantemente con proyectos escolares que busco llevar más allá del requisito mínimo, conectando código, diseño, documentación, pruebas, presentación y utilidad práctica.
+En mis proyectos escolares busco ir más allá del requisito mínimo, conectando código, diseño, documentación, pruebas, presentación y utilidad real.
 
 ---
 
@@ -89,7 +109,7 @@ Trabajo constantemente con proyectos escolares que busco llevar más allá del r
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Datos, herramientas y diseño
+### Datos, diseño y herramientas
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -97,7 +117,7 @@ Trabajo constantemente con proyectos escolares que busco llevar más allá del r
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### DevOps, redes y entorno
+### Entorno, control de versiones y redes
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -110,21 +130,11 @@ Trabajo constantemente con proyectos escolares que busco llevar más allá del r
 
 ## Mi forma de trabajar
 
-Me gusta construir proyectos con una visión completa: no solo que funcionen, sino que tengan sentido para quien los usa.
+Me gusta construir proyectos con una visión completa: lógica, interfaz, rendimiento, documentación, pruebas y utilidad real.
 
-Cuido la estructura, el rendimiento, la experiencia visual, la lógica interna y la posibilidad de que un proyecto pueda seguir creciendo sin convertirse en caos. Para mí, programar no es solo escribir código; es diseñar sistemas que resuelvan algo de verdad.
+No veo el software solo como código. Lo veo como una forma de resolver problemas, organizar procesos y crear herramientas que otras personas puedan usar sin tener que entender todo lo que pasa por dentro.
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kortungas&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kortungas&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+Mi objetivo es seguir creciendo como desarrollador, construir proyectos cada vez más sólidos y convertir mi experiencia universitaria en una base real para mi carrera como ingeniero de software.
 
 ---
 
