@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/Kortungas" width="170" alt="Foto de perfil de Kurt" />
+<img src="[https://avatars.githubusercontent.com/Kortungas](https://avatars.githubusercontent.com/u/179436524?v=4)" width="170" alt="Foto de perfil de Kurt" />
 
 # Kurt Cobain Vázquez Sánchez
 
