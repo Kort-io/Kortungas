@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="[https://avatars.githubusercontent.com/Kortungas](https://avatars.githubusercontent.com/u/179436524?v=4)](https://instagram.fqro1-1.fna.fbcdn.net/v/t51.82787-19/726716436_18298069186304345_7874713274445828615_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fqro1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHCv5wU-HGqVxqdQgH0cXgepuBWJYVdUAR2bfYQfnpCU2NXlHtOWmdBnT6bcr9QxqbJScVqwbkicTaj-cmaihii&_nc_ohc=ng0t1LtR6nUQ7kNvwH4OBmv&_nc_gid=J26bjX93CLUBxMcqpgX5Pw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQCbiu_NMc7GMMiKYOgZepLVgB1EYSBJb_6SgbniKeM7qQ&oe=6A6B5778&_nc_sid=7a9f4b)" width="170" alt="Foto de perfil de Kurt" />
-
 # Kurt Cobain Vázquez Sánchez
 
 ### Software Student · Digital Solutions Developer · University Tech Builder
